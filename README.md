@@ -1,2 +1,2 @@
 # webdev-custom
-Webdev Docker images
+Webdev Docker images customized to meet specific requirements
